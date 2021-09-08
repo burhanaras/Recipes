@@ -11,7 +11,7 @@ import SwiftUI
 struct Modern_SwiftUI_MVVM_With_Tests_Recipes_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecipeListView(viewModel: RecipeListViewModel(repository: RecipesRepository(networkLayer: NetworkLayer())))
         }
     }
 }
