@@ -1,4 +1,4 @@
-# Modern-SwiftUI-MVVM-With-Tests-Recipes-App
+# Modern SwiftUI on MVVM with Unit Tests and UI Tests: Recipes App
 
 An app to show modern iOS app development: SwiftUI + Combine on MVVM With Tests
 
