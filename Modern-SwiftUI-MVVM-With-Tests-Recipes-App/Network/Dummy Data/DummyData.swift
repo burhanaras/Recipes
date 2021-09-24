@@ -12,7 +12,7 @@ let dummyChefs = [Chef(id: "0", name: "Marley Spoon")]
 
 //let dummyChefz = try [ChefDTO(from: JSONDecoder().decode(ChefDTO.self, from: "".data(using: .utf8)!) as! Decoder)]
 let dummyImageURL0 = URL(string: "https://marleyspoon.com/media/recipes/89058/main_photos/large/honey-9749475fadffaccd237c8ea3439b2cf5.jpeg")!
-let dummyRecipe0 = Recipe(id: "0", title: "Dummy Recipe 0", description: "Description 0", calories: 12, imageURL: dummyImageURL0, tags: dummyTags, chef: dummyChefs[0])
+let dummyRecipe0 = Recipe(id: "0", title: "Dummy Recipe 0", description: "This 20-minute recipe is fast and delicious. Tender pulled pork is seasoned with garlic and dried oregano, then quickly broiled until hot and slightly crisp in spots. The pork is served on toasted pita and alongside a romaine salad with cucumbers and tomatoes. The beauty of this souvlaki platter? You can eat it with your hands or fork and knife it—either way, it's a perfect bite.", calories: 12, imageURL: dummyImageURL0, tags: dummyTags, chef: dummyChefs[0])
 
 class DummyData{
     static func recipes(count: Int) -> [Recipe] {

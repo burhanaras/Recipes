@@ -92,6 +92,7 @@ struct RecipeListView_Previews: PreviewProvider {
             RecipeListView(viewModel: viewModel).colorScheme(.dark)
             RecipeView(recipe: dummyRecipe0, showDetailSheet: .constant(false), selectedRecipe: .constant(dummyRecipe0))
                 .previewLayout(.sizeThatFits)
+            RecipeListView(viewModel: RecipeListViewModel(repository: FailingRepository()))
         }
     }
 }

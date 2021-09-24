@@ -12,3 +12,9 @@ class DummyRepository: Repository {
         completion(.success(DummyData.recipes(count: 10)))
     }
 }
+
+class FailingRepository: Repository {
+    func getReceipes(completion: @escaping (Result<[Recipe], NetworkError>) -> Void) {
+        completion(.failure(.badURL))
+    }
+}
