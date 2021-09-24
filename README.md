@@ -1,4 +1,4 @@
-Developed by [Burhan ARAS](http://www.burhanaras.net) with all the love on planet.
+📱📱📱Developed by [Burhan ARAS](http://www.burhanaras.net) with all the love on planet.
 
 
 # Modern SwiftUI on MVVM with Unit Tests and UI Tests: Recipes App
