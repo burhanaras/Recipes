@@ -1,3 +1,6 @@
+Developed by [Burhan ARAS](http://www.burhanaras.net) with all the love on planet.
+
+
 # Modern SwiftUI on MVVM with Unit Tests and UI Tests: Recipes App
 
 An app to show modern iOS app development: SwiftUI + Combine on MVVM With Tests
