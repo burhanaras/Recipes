@@ -16,3 +16,7 @@ UI is adaptive. When iPhone/iPad is rotated, column count will increase to fill 
 ## Architecture
 
 ![This is architecture.](https://github.com/burhanaras/Modern-SwiftUI-MVVM-With-Tests-Recipes-App/blob/30dedc57d1ca6d768c3b393875a64ff8929d55f0/Modern-SwiftUI-MVVM-With-Tests-Recipes-App/Preview%20Content/Preview%20Assets.xcassets/Architecture.imageset/SwiftUI_Architecture.jpg?raw=true "This is architecture diagram for Recipes App.")
+
+## 🚀 About Me
+This is Burhan ARAS. I take ideas and translate them into coding.
+[Web](http://www.burhanaras.net)
