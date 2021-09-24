@@ -19,4 +19,5 @@ UI is adaptive. When iPhone/iPad is rotated, column count will increase to fill 
 
 ## 🚀 About Me
 This is Burhan ARAS. I take ideas and translate them into coding.
-[Web](http://www.burhanaras.net)
+
+[www.burhanaras.net](http://www.burhanaras.net)
